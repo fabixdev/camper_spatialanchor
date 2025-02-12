@@ -1,7 +1,5 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 #
-# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
-#
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -25,6 +23,10 @@
 
 # Visual Studio cache directory
 .vs/
+.vsconfig
+
+# Visual Studio Code
+.vscode/
 
 # Gradle cache directory
 .gradle/
@@ -70,3 +72,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+.DS_Store
+Packages/packages-lock.json
