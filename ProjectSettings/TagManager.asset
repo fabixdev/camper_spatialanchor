@@ -4,16 +4,49 @@
 TagManager:
   serializedVersion: 3
   tags:
+  - scafo
+  - tappezzeria
+  - porte
+  - tramezzi
+  - pavimento
+  - deck
+  - cucinatop
+  - mobili cucina
+  - tavolo
   - sferassa
-  - scoccaup
-  - scoccadown
-  - sedili
-  - letto
-  - mobili
-  - fondo
-  - tappeto
-  - volante
-  - tendine
+  - vela1
+  - vela2
+  - timone
+  - passerella
+  - winches
+  - albero
+  - luci
+  - lavandino
+  - pensili
+  - sanitari
+  - tamponideck
+  - corepannel
+  - QDSUIToggleButton
+  - QDSUIIcon
+  - QDSUITextSecondaryColor
+  - QDSUIPrimaryButton
+  - QDSUISharedThemeColor
+  - QDSUIAccentColor
+  - QDSUISecondaryButton
+  - QDSUIDestructiveButton
+  - QDSUIBorderlessButton
+  - QDSUIToggleBorderlessButton
+  - QDSUITooltip
+  - QDSUIToggleSwitch
+  - PassThroughButton
+  - PassThrough
+  - Locomotion
+  - LocoButton
+  - LocoText
+  - QDSUITextInputField
+  - SamplesInfoPanel
+  - QDSUIToggleCheckboxRadio
+  - QDSUISection
   layers:
   - Default
   - TransparentFX
@@ -25,8 +58,8 @@ TagManager:
   - 
   - 
   - 
-  - Anchor
-  - NonAnchor
+  - 
+  - 
   - 
   - 
   - 
@@ -53,3 +86,10 @@ TagManager:
     locked: 0
   m_RenderingLayers:
   - Default
+  - Light Layer 1
+  - Light Layer 2
+  - Light Layer 3
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7
